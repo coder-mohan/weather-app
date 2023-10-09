@@ -7,7 +7,7 @@ Welcome to the Weather App GitHub repository! This project is a simple web appli
 
 ## Demo
 
-You can see a live demo of the Weather App here:
+You can see a live demo of the Weather App here: [Weather app](https://delicate-biscotti-07b48e.netlify.app/)
 
 ## Features
 
@@ -28,7 +28,7 @@ Any code editor of your choice (e.g., Visual Studio Code, Sublime Text)
 
 1. Clone the repository to your local machine:
 ```bash
-  git clone https://github.com/coder-mohan/weather-app.git
+  git clone https://github.com/coder-mohan/weather-app
 ```
 2. Open the project folder in your code editor.
 
